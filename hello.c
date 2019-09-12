@@ -6,6 +6,5 @@ void int main() {
 	m = 200;
 	m = 300;
 	m = 500;
-	int a = 10;
 	return 0;
 }
