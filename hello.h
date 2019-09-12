@@ -1,0 +1,6 @@
+
+void getTime() {
+	return;
+}
+
+
